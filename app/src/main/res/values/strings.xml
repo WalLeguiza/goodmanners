@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Good Manners</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Title -->
+    <string name="question"> ¿Qué tal fue tu día? </string>
+
+    <!-- Answers -->
+    <string name="answer1"> Excelente </string>
+    <string name="answer2"> Bueno </string>
+    <string name="answer3"> Malo </string>
+    <string name="answer4"> Pésimo </string>
+
+    <!-- Button -->
+    <string name="btn_txt"> Enviar </string>
+    <string name="title_activity_message">MessageActivity</string>
+
+    <!-- Messages -->
+    <string name="message1"> ¡Que buena noticia! </string>
+    <string name="message2"> ¡Seguro que mañana será excelente! </string>
+    <string name="message3"> ¡Vamos! Que no decaiga </string>
+    <string name="message4"> ¡Arriba ese ánimo! </string>
+</resources>
